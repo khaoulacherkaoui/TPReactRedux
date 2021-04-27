@@ -10,7 +10,7 @@
     "client": "npm start --prefix client",
     "dev": "concurrently \"npm run server\" \"npm run client\""
   },
-  "author": "Cherkaoui Khaoula",
+  "author": "Khaoula Cherkaoui",
   "license": "MIT",
   "dependencies": {
     "body-parser": "^1.19.0",
